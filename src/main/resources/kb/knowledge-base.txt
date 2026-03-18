@@ -12,3 +12,6 @@ Yazılım lisansları iade edilemez. Donanım arızalarında 14 gün içinde de�
 
 Versiyon:
 Bilgi tabanı sürümü: 2025.03. Bu metin yalnızca RAG denemesi içindir.
+
+Sahibi:
+Ramazan Güner
